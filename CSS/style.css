@@ -1,3 +1,14 @@
-body {
-    background-color: grey;
+Body {
+    background-color:dimgrey
+}
+
+.header {
+    text-align: center;
+
+}
+
+.test {
+    word-break: break-all;
+    text-wrap:balance;
+
 }
