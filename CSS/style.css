@@ -7,7 +7,7 @@ Body {
 
 }
 
-.test {
+p {
     word-break: break-all;
     text-wrap:balance;
 
