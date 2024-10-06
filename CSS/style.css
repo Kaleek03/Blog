@@ -1,5 +1,5 @@
 Body {
-    background-color:dimgrey
+    background-color: white
 }
 
 .header {
@@ -8,6 +8,7 @@ Body {
 }
 
 p {
+    font-size: larger;
     word-break: break-all;
     text-wrap:balance;
 
